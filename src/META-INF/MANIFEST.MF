@@ -1,0 +1,1 @@
+Add-Opens: jdk.jlink/jdk.tools.jlink.internal
