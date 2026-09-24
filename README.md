@@ -1,4 +1,4 @@
-# JImagePatcher
+# JImagePatcher-ng
 
 Forked & refactored from https://github.com/CompassSecurity/JimagePatcher
 
