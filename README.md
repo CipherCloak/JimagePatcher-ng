@@ -1,6 +1,7 @@
 # JImagePatcher
 
 Forked & refactored from https://github.com/CompassSecurity/JimagePatcher
+
 This refactored code was made by AI.
 
 ---
